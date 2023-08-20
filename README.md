@@ -1,2 +1,1 @@
-# Node-Mongoose
-Exercise to learn Mongoose
+# node-mongoose
